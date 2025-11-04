@@ -1,7 +1,10 @@
 # [Travel Ready ](https://grenvals.github.io/TravelReady/index.html)
 Travel Ready makes packing easy by helping you remember what items you shouldn't forget for your weekend getaway, trip, or vacation. The app is available on browser, mobile devices (iOS/Android), and desktop.
 
-   ![general](https://user-images.githubusercontent.com/40334272/90871711-2bf77200-e3a4-11ea-85f5-158ee7639aa3.png)
+![general](https://github.com/user-attachments/assets/8a09b0a9-45f5-4e38-a478-fb71760bc7bb)
+[![Review](https://github.com/user-attachments/assets/f151b671-dbd2-4ba2-b2f9-7d21b1237342)](https://geo-info.vercel.app/)
+
+[![Review](https://github.com/user-attachments/assets/95313bab-de25-47f4-8e74-920fea4cfa36)](https://geo-info.vercel.app/)
 
 
 ## 📱 Review
@@ -11,14 +14,15 @@ Travel Ready makes packing easy by helping you remember what items you shouldn't
 ## 🌎 How to install
    The app is cross-platform, so you can install it on your smartphone, computer, or use it in your browser. Personally, I often use it on my smartphone. The app does not require an internet connection, as all changes are saved locally.
    ###  Install on smartphone
-   [Open the app in your browser](https://grenvals.github.io/TravelReady/index.html)
-   ![Install](https://user-images.githubusercontent.com/40334272/90870949-ff8f2600-e3a2-11ea-9d66-4cfd3ed77224.png)
+   [Open the app in your browser](https://grenvals.github.io/TravelReady/index.html) or scan QR code:
+   ![Install](https://github.com/user-attachments/assets/80597246-d7e6-4fd9-828b-764abd81417a)
    ###  Install on PC
    1.  [Open the app in your browser](https://grenvals.github.io/TravelReady/index.html)
    2. In the address bar, you'll see an 'Install' prompt or a '+' icon.
    3. After installation, the app will appear on your desktop and in the main menu.
    ![laptop](https://user-images.githubusercontent.com/40334272/90871374-ac69a300-e3a3-11ea-97ed-9673716a3a7d.png)
    ![phone](https://user-images.githubusercontent.com/40334272/90870654-8f80a000-e3a2-11ea-92d6-b337657f29df.png)
+   [![Review](https://github.com/user-attachments/assets/95313bab-de25-47f4-8e74-920fea4cfa36)](https://geo-info.vercel.app/)
 
 ## 💻 Technologies
    This application is developed using the React. For dynamic styling, it uses the classnames library, SASS and the BEM methodology. State management is handled with useReducer and Context API. The app is cross-platform — you can install it on your smartphone, computer, or simply use it in the browser. It works offline and doesn't require an internet connection — all changes are saved locally.
@@ -86,4 +90,4 @@ You can run aplication locally in 5 minutes:
    yarn build
 
    ```
-
+[![Review](https://github.com/user-attachments/assets/95313bab-de25-47f4-8e74-920fea4cfa36)](https://geo-info.vercel.app/)
